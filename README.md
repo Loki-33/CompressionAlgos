@@ -2,9 +2,11 @@
 Implemented COMPRESSION ALGORITHMS in python like:
 1. ARITHMETIC CODING
 2. HUFFMAN CODING 
+3. ADAPTIVE ARITHMETIC CODING 
 
-## TODO 
-Implement the above compression algorithms for a file(text, jpeg) and compare to gzip 
-
-
+## RESULTS REACHED IN ADAPTIVE ARITHMETIC CODING
+COMPRESSED: 9623 bits -> 1202 bits 
+RATIO: 46.78% 
+TIME: 0.0138s 
+BPC: 4.26 
 
